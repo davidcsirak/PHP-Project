@@ -6,12 +6,12 @@ Ez egy PHP és phpMyAdmin projekt amiben egy bejelentkezési felületet kellett 
 A Kódolt txt állomány dekódolt adatai amivel be lehet jelentkezni és
 az emailcímhez rendelt kedvenc színt megjeleníteni:
 
-* "katika@gmail.com" -> katica85
-* "arpi40@freemail.hu" -> polip
-* "zsanettka@hotmail.com" -> csillag12
-* "hatizsak@protonmail.com" -> tracking
-* "terpeszterez@citromail.hu" -> cukorka
-* "nagysanyi@gmail.hu" -> julcsika
+* katika@gmail.com -> katica85
+* arpi40@freemail.hu -> polip
+* zsanettka@hotmail.com -> csillag12
+* hatizsak@protonmail.com -> tracking
+* terpeszterez@citromail.hu -> cukorka
+* nagysanyi@gmail.hu -> julcsika
 
 A projekt felülete elérhető:
 
