@@ -5,7 +5,7 @@ Ez egy PHP és phpMyAdmin projekt amiben egy bejelentkezési felületet kellett 
 
 A projekt felülete elérhető:
 
-[Itt](csirakdavid-web.freecluster.eu)
+[Itt](http://csirakdavid-web.freecluster.eu/)
 
 Az adatbázis:
 
